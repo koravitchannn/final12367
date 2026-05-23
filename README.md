@@ -3,7 +3,6 @@
 เว็บไซต์ร้านขายอุปกรณ์กีฬาพัฒนาด้วย **Django Framework** ตามรูปแบบ **Model–View–Template (MVT)**  
 รองรับ **PostgreSQL บน Supabase** พร้อมระบบสมาชิก แต้มสะสม ตราถูกใจ ตะกร้าสินค้า และระบบแอดมินจัดการร้าน
 
-**Repository:** https://github.com/luck-nara/ViperSport
 
 ---
 
